@@ -1,0 +1,26 @@
+{
+  "name": "LogMaster",
+  "authors": [
+    "梁博文 <bowen.liang.123@gmail.com>"
+  ],
+  "description": "LogMaster",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "qrcode"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.4"
+  }
+}

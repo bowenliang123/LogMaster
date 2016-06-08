@@ -7,3 +7,7 @@
 *.iml
 out
 gen
+bower_components
+dist
+node_modules
+releases
